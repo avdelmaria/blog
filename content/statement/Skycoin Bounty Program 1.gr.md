@@ -9,99 +9,102 @@ categories = [
 ]
 +++
 
-*Ενημερώθηκε στις 20 Αυγούστου 2017. Αφαιρέθηκαν τα GIF bonus.*
+*Ενημερώθηκε στις 20 Αυγούστου 2017. Αφαιρέθηκε το πρόγραμμα ανταμοιβών για GIF.*
 
-*Ενημερώθηκε και πάλι στις 29 Αυγούστου 2017. Προστέθηκε το bonus της μετάφρασης.*
+*Ενημερώθηκε και πάλι στις 29 Αυγούστου 2017. Προστέθηκε το πρόγραμμα ανταμοιβών για μεταφράσεις.*
 
-*Updated August 29, 2017. Added reddit activity bonus. Increased GIF bounty to 20.*
+*Ενημερώθηκε στις 29 Αυγούστου 2017. Προστέθηκε πρόγραμμα ανταμοιβών για δραστηριότητα στο reddit. Αυξήθηκε το πρόγραμμα ανταμοιβών για GIF στο 20.*
 
 
-Apply for rewards in the [Skycoin Bounty Program Telegram Channel](https://t.me/skycoinbounty)
+Υποβάλετε την αίτηση σας για το πρόγραμμα ανταμοιβών (bonus) στο [Skycoin Bounty Program Telegram Channel](https://t.me/skycoinbounty)
 
-## Bounty Categories
+## Οι κατηγορίες των προγραμμάτων ανταμοιβής είναι:
 
 <!-- MarkdownTOC autolink="true" bracket="round" -->
 
-- [Graphics](#graphics)
-- [Video](#video)
-- [Translations](#translations)
-- [Writing](#writing)
-- [Social Media Engagement](#social-media-engagement)
+- [Γραφικά](#graphics)
+- [Τηλεοπτικά μέσα (Video)](#video)
+- [Μεταφράσεις](#translations)
+- [Συγγραφή](#writing)
+- [Συμμετοχή σε κοινωνικά δίκτυα](#social-media-engagement)
 
 <!-- /MarkdownTOC -->
 
-## Graphics
+## Γραφικά
 
-Infographics about Skycoin, Skywire meshnet, BBS, CXO etc.
+Δημιουργία οπτικών μηνυμάτων για τα Skycoin, Skywire meshnet, BBS, CXO και λοιπά.
 
-Branding assets (logos, color) are on the [downloads page](https://www.skycoin.net/downloads).
+Τα στοιχεία των παραπάνω brands (λογότυπα, χρώματα) βρίσκονται στη [σελίδα λήψης](https://www.skycoin.net/downloads).
 
-* 15 SKY each
+* 15 SKY για το κάθε ένα
 
-## Video
+## Τηλεοπτικά μέσα (Video)
 
-Youtube Videos (e.g. vlog type material) about Skycoin in general
+Βίντεο στο Youtube (όπως π.χ. τύπου vlog, δηλαδή, μία ιστοσελίδα τύπου blog στην οποία οι δημοσιεύσεις δεν γίνονται υπό μορφή άρθρων, αλλά υπό μορφή βίντεο) με υλικό σχετικό με το Skycoin
 
-* 1SKY per 1000 views
-* Must be from relevant (e.g. cryptocurrency related) youtube account
-* The video must be original content (or sufficiently modified derivative content).
+* 1 SKY για κάθε 1000 εμφανίσεις
+* Το βίντεο θα πρέπει να προέρχεται από σχετικό με κρυπτογράφηση λογαριασμό YouTube
+* Το βίντεο θα πρέπει να έχει πρωτότυπο περιεχόμενο (ή επαρκώς τροποποιημένο περιεχόμενο)
 
-Production Promotional Videos (e.g. describing skycoin technology)
+Προωθητικά βίντεο (π.χ. με την περιγραφή της τεχνολογίας του Skycoin)
 
 * 150 SKY
 * You can also post this to your youtube channel and collect that bounty
 * Skycoin may use these on their own youtube channel or on the skycoin website
+* Μπορείτε επίσης να δημοσιεύσετε αυτήν τη σελίδα στο κανάλι σας στο YouTube και να εισπράξετε το bonus
+* Το Skycoin μπορεί να χρησιμοποιήσει τις δημοσιεύεσεις αυτές στο δικό του κανάλι YouTube ή στον ιστότοπο του Skycoin
 
-## Translations
+## Μεταφράσεις
 
-Translate posts from this blog.
+Μετάφραση αναρτήσεων από το συγκεκριμένο μπλογκ
 
-Accepted languages are:
+Οι αποδεκτές γλώσσες προς μετάφραση είναι οι εξής:
 
-* Deutsche
-* Español
-* 日本語
-* 한국어
+* Γερμανικά (Deutsche)
+* Ισπανικά (Español)
+* Ιαπωνικά (日本語)
+* Κορεάτικα (한국어)
 * Ελληνικά
 
-*Note: 中文 and Рyсский translations all have someone working on them now*
+*Σημείωση: Για τις μεταφράσεις στα Κινέζικα και στα Ρώσικα ήδη βρίσκονται προς εξέλιξη*
 
-We may add more languages later but aren't able to verify translations for other languages yet.
+Αργότερα υπάρχει το ενδεχόμενο να προσθέθουν περισσότερες γλώσσες αφού λυθεί το θέμα των επαληθεύσεων των μεταφράσεων.
 
-Every 500 words is 5 SKY. For example:
+Για κάθε 500 λέξεις αντιστοιχούν 5 SKY. Για παράδειγμα:
 
-* 1-500 words: 5 SKY
-* 501-1000 words: 10 SKY
-* 1001-1500 words: 15 SKY
-* ...and so on...
+* 1-500 λέξεις: 5 SKY
+* 501-1000 λέξεις: 10 SKY
+* 1001-1500 λέξεις: 15 SKY
+* ...και ούτω καθεξής...
 
-At the bottom of each English-language blog post, the reward for that article is shown.
+Στο κάτω μέρος της κάθε δημοσίευσης του μπλοκ (στην αγγλική γλώσσα), εμφανίζεται η ανταμοιβή για το συγκεκριμένο άρθρο.
 
-The post must not already be translated.
+Τα πόστς δεν πρέπει να μεταφράζονται ήδη.
 
-If a post is already translated but you find mistakes or improvement, we can give a small reward as appropriate.
+Εάν ένα άρθρο έχει ήδη μεταφραστεί αλλά βρεθούν λάθη ή βελτιώσεις, μπορούμε να δώσουμε μια μικρή ανταμοιβή ανάλογα με την κάθε περίπτωση.
 
-One or two other native speakers of the translated language must review the translation to check its quality.
-Bad translations will not receive a bounty, although you are free to improve it until it is accepted.
+Τουλάχιστον ένας ή δύο ομιλητές της μεταφρασμένης γλώσσας θα πρέπει να πραγματοποιήσουν έλεγχο της μετάφρασης ώστε να διαπυστωθεί η ποιότητά τους.
+Οι άστοχες μεταφράσεις δεν θα λάβουν ανταμοιβή αν και θα είστε ελεύθεροι για την βελτίωση της μέχρι να γίνει αποδεκτή.
 
-## Writing
+## Συγγραφή
 
-Blog posts, articles
+Δημοσιεύσεις σε μπλογκ, άρθρα
 
-* Negotiable based on views, publishing outlet, quality.
-* Contact us ahead of time until we establish a way to value written content.
+* Διαπραγματεύσιμο με βάση τις επισκέψεις, την έκδοση του και την ποιότητα του.
+* Επικοινωνήστε μαζί μας το συντομέτερο δυνατό μέχρι να καθιερώσουμε τρόπο αξιολόγησης του γραπτού περιεχομένου.
 
-Please be sincere with content produced for the bounty program.
-If something appears to be done in bad faith we may reject or reduce the reward (for example, fake youtube views or sloppy infographics).
+Παρακαλούμε να είστε ειλικρινείς με το περιεχόμενο που παράγεται για το πρόγραμμα ανταμοιβής.
+Αν κάτι δεν φαίνεται να γίνεται σωστά, έχουμε την δυνατότητα της απορρίψης ή και τις μειώσης της ανταμοιβής (για παράδειγμα, ψεύτικες προβολές στο YouTube ή ακατάστατα και πρόχειρα οπτικά μηνύματα).
 
-## Social Media Engagement
+## Συμμετοχή σε κοινωνικά δίκτυα
 
-Special bonus for active community users:
+Ειδικά μπόνους για ενεργούς χρήστες της κοινότητας:
 
-* 10 SKY - 100 [Skycoin subreddit](https://reddit.com/r/skycoinproject) posts
-* 100 SKY - 500 [Skycoin subreddit](https://reddit.com/r/skycoinproject) posts
-* 1000 SKY - 2500 [Skycoin subreddit](https://reddit.com/r/skycoinproject) posts
+* 10 SKY - 100 [Skycoin subreddit](https://reddit.com/r/skycoinproject) Δημοσιεύσεις
+* 100 SKY - 500 [Skycoin subreddit](https://reddit.com/r/skycoinproject) Δημοσιεύσεις
+* 1000 SKY - 2500 [Skycoin subreddit](https://reddit.com/r/skycoinproject) Δημοσιεύσεις
 
-*If you have other ideas for promoting Skycoin that deserve a bounty, please suggest them in the Telegram channel.*
+*Εφόσον βρίσκεστε σε θέση να μας προτείνετε και άλλες ιδέες για την προώθηση του Skycoin που ενδεχομένως να αξίζουν μια ανταμοιβή, παρακαλούμε να μας τις προωθήσετε στο κανάλι μας στο Telegram*.*
+
 
 [Skycoin Bounty Program Telegram Channel](https://t.me/skycoinbounty)
