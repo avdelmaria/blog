@@ -22,25 +22,23 @@ categories = [
 ανταποκρίνεται καλύτερα στο αρχικό όραμα του Σάτοσι για ένα πλήρως αποκεντρωμένο ψηφιακό
 νομισματικό σύστημα.
 
-In doing so, Skycoin technology creates a blockchain network with no mining
-requirement, fixed supplies of crypto-tokens, 10-second transaction times, and
-greater security. In a system in which the connection between coin creation
-and control over the network is severed, crypto-tokens lose their political
-function and begin to act more like a form of digital property in the
-straightforward sense.
-Με αυτόν τον τρόπο, η τεχνολογία του Skycoin δημιουργεί ένα δίκτυο αποκλεισμού χωρίς να 
-απαιτούνται εξορυκτικές δραστηριότητες, με σταθερές προμήθειες στα κρυπτονομίσματα, 
-χρόνων συναλλαγής 10 δευτερολέπτων και μεγαλύτερη ασφάλεια. 
-Σε ένα σύστημα στο οποίο η σύνδεση μεταξύ της δημιουργίας νομισμάτων και του διακτιακού ελέγχου αποκόπτεται, 
-τα κρυπτονομίσματα χάνουν την πολιτική τους υπόσταση και αρχίζουν να λειτουργούν περισσότερο σαν μια μορφή ψηφιακής ιδιοκτησίας στην πιο απλής έννοια.
+Με αυτόν τον τρόπο, η τεχνολογία του Skycoin δημιουργεί μία αλυσίδα (blockchain network) 
+χωρίς να απαιτούνται εξορυκτικές δραστηριότητες, 
+με σταθερές προμήθειες στα κρυπτονομίσματα, 
+χρόνοι συναλλαγής 10 δευτερολέπτων και μεγαλύτερη ασφάλεια. 
+Σε ένα σύστημα στο οποίο η σύνδεση μεταξύ της δημιουργίας νομισμάτων 
+και του δικτυακού ελέγχου αποκόπτεται, τα κρυπτονομίσματα χάνουν την πολιτική τους 
+υπόσταση και αρχίζουν να λειτουργούν περισσότερο σαν μια μορφή ψηφιακής 
+ιδιοκτησίας στην πιο απλή του έννοια.
 
-## Proof of Work and the Bitcoin system
+## Η απόδειξη εργασίας ("PoW") και το σύστημα του Bitcoin
 
-It was a fundamental miscalculation in the early programming of Bitcoin that
-the mining process would produce an economic incentive structure that would
-promote decentralization. In fact, the link between consensus and hashing
-power incentivizes the purchase of ever increasing processing capacity to
-control the consensus network.
+Κατά τον πρώιμο προγραμματισμό του Bitcoin, ένας βασικός λανθασμένος υπολογισμός 
+ήταν η διαδικασία εξόρυξης όπου θα παρήγαγε μια οικονομική δομή με κίνητρα που 
+θα μπορούσε να γίνει προαγωγή και προώθηση της αποκέντρωσης. 
+Στην πραγματικότητα όμως, η σχέση μεταξύ συναίνεσης και της ενέργειας του κατακερματισμού 
+(hashing power) ενθαρρύνει συνεχώς την αγορά της συνεχώς αυξανόμενης υπολογιστικής ισχύς 
+ώστε να βρίσκεται σε έλεγχο του δίκτυο.
 
 The Bitcoin network, for instance, is de facto controlled by three for-profit
 mining pools which have been able to concentrate a large part of the network’s
@@ -124,22 +122,23 @@ the personal blockchains of each node, the community can very easily audit
 nodes for cheating or collusion. How decisions on the network are made and
 which nodes influence those decisions is completely transparent.
 
-The public record left by each node’s personal blockchain allows the network
-to react to defections by severing connections with less trustworthy or
-malicious nodes, contracting the network to a smaller and denser core of
-trusted nodes. Hence, in principle, if the community does not trust the nodes
-representing them or feels that power within the network is too concentrated
-(or not concentrated enough) the community is able to collectively shift the
-balance of power in the network by collectively changing their trust
-relationships in the network. The accountability of nodes to the community and
-3rd party audits as well as the transparency of consensus strengthens
-collective decision-making and thus introduces a highly democratic and
-decentralizing element to the network.
+Το δημόσιο αρχείο που παραμένει από το προσωπικό μπλοκ αλυσίδας (blockchain) 
+του κάθε κόμβου, επιτρέπει στο δίκτυο να αντιδρά σε επιθέσεις αποσυνδέοντας 
+τις συνδέσεις που είναι λιγότερο αξιόπιστες ή έχουν θεωρηθεί κακόβουλες, 
+αναθέτοντας έτσι το δίκτυο σε έναν μικρότερο και πυκνότερο πυρήνα από
+αξιόπιστους κόμβους. Ως εκ τούτου, εάν η κοινότητα δεν διαθέτει εμπιστοσύνη 
+στους κόμβους που τις αντιπροσωπεύει ή αισθάνεται ότι η ισχύς στο δίκτυο 
+είναι πολύ συγκεντρωμένη (ή όχι αρκετά συγκεντρωμένη), η κοινότητα 
+είναι σε θέση να μετατοπίσει συλλογικά την ισορροπία της εξουσίας στο δίκτυο 
+αλλάζοντας συλλογικά την εμπιστοσύνη τους στα μέλη του δικτύου. 
+Η λογοδοσία των κόμβων στην κοινότητα, οι έλεγχοι από τρίτες μεριές 
+καθώς και η διαφάνεια της συναίνεσης ενισχύονται για την συλλογική λήψη αποφάσεων 
+και εισάγουν έτσι ένα ιδιαίτερα δημοκρατικό και αποκεντρωτικό στοιχείο μέσα στο δίκτυο.
 
-This system provides for a digital currency system with significantly reduced
-transaction times, no mining requirement, and greater security.
+Το σύστημα αυτό προβλέπει ένα σύστημα ψηφιακού νομίσματος με σημαντικά 
+μειωμένους χρόνους συναλλαγής και μεγαλύτερη ασφάλεια.
 
-*Read more:*
+*Διαβάστε ακόμη:*
 
 * *[Skycoin Consensus Algorithm Whitepapers](https://www.skycoin.net/whitepapers)*
 * *[Obelisk The Skycoin Consensus Algorithm | Information Pages](/overview/obelisk-skycoin-consensus-algorithm-information-pages/)*
