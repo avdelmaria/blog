@@ -15,12 +15,12 @@ categories = [
 που ονομάζεται "Οβελίσκος" και αντικαθιστά τόσο την απόδειξη εργασίας ("PoW") 
 όσο και την απόδειξη της συμμετοχής ("PoS").
 
-The aim of the developers of Skycoin was to correct the major security flaws
-and “centralizing tendencies” associated with blockchain networks in which
-consensus is based on PoW or PoS algorithms and coin creation is linked to a
-mining process. Skycoin is therefore trying to create a cryptocurrency that
-better fulfills Satoshi’s original vision of a fully decentralized digital
-currency system.
+Ο στόχος των προγραμματιστών του Skycoin ήταν να διορθώσουν τις σημαντικές αδυναμίες ασφαλείας
+και τις "συγκεντρωτικές τάσεις" που συνδέονται με τα δίκτυα blockchain στα οποία
+η συναίνεση βασίζεται σε αλγόριθμους PoW ή PoS και η δημιουργία κερμάτων συνδέεται με ένα
+εξόρυξης. Έτσι, το Skycoin προσπαθεί να δημιουργήσει την κρυπτοσυχνότητα την οποία
+ανταποκρίνεται καλύτερα στο αρχικό όραμα του Σάτοσι για ένα πλήρως αποκεντρωμένο ψηφιακό
+νομισματικό σύστημα.
 
 In doing so, Skycoin technology creates a blockchain network with no mining
 requirement, fixed supplies of crypto-tokens, 10-second transaction times, and
@@ -28,6 +28,11 @@ greater security. In a system in which the connection between coin creation
 and control over the network is severed, crypto-tokens lose their political
 function and begin to act more like a form of digital property in the
 straightforward sense.
+Με αυτόν τον τρόπο, η τεχνολογία του Skycoin δημιουργεί ένα δίκτυο αποκλεισμού χωρίς να 
+απαιτούνται εξορυκτικές δραστηριότητες, με σταθερές προμήθειες στα κρυπτονομίσματα, 
+χρόνων συναλλαγής 10 δευτερολέπτων και μεγαλύτερη ασφάλεια. 
+Σε ένα σύστημα στο οποίο η σύνδεση μεταξύ της δημιουργίας νομισμάτων και του διακτιακού ελέγχου αποκόπτεται, 
+τα κρυπτονομίσματα χάνουν την πολιτική τους υπόσταση και αρχίζουν να λειτουργούν περισσότερο σαν μια μορφή ψηφιακής ιδιοκτησίας στην πιο απλής έννοια.
 
 ## Proof of Work and the Bitcoin system
 
