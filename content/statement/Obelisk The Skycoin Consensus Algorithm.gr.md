@@ -75,57 +75,61 @@ blockchain στα οποίαη συναίνεση βασίζεται σε αλγ
 έως ότου εγκαταλείψει το νόμισμα.
 
 Αυτή τη στιγμή η οικονομία του Bitcoin αποτελείται από τους νέους χρήστες που 
-τοποθετούν κάπου τα χρήματά τους και στη συνέχεια τα χρήματα αυτά ρίχνονται σε ένα λάκκο 
-και καίγονται σε μια τελετουργία θυσία προς το κόστος εξόρυξης ηλεκτρικής ενέργειας. 
-Αν ο μέσος χρήστης έπρεπε να πληρώσει τους miners, το κόστος της ηλεκτρικής ενέργειας,
+τοποθετούν τα χρήματά τους και στη συνέχεια τα χρήματα αυτά ρίχνονται σε ένα λάκκο 
+και καίγονται σε μια τελετουργική θυσία προς το κόστος εξόρυξης ηλεκτρικής ενέργειας. 
+Αν ο μέσος χρήστης έπρεπε να πληρώσει τους miners, για το κόστος της ηλεκτρικής ενέργειας,
 άμεσα ως αμοιβή συναλλαγών, αντί να ληστεύεται μέσω του πληθωρισμού 
 με τη δημιουργία νέων κερμάτων, στη συνέχεια κάθε συναλλαγή Bitcoin θα κόστιζε 
 περισσότερο από $50. Θα ήταν ακριβότερη από ένα διεθνή τραπεζική μεταφορά.
 
-## The centralizing tendency of Proof of Stake
+## Η κεντρική τάση της απόδειξης της συμμετοχής ("PoS")
 
-Although Proof of Stake algorithms tackle the security issue of 51% attacks,
-they are arguably even more vulnerable to centralization than PoW networks. In
-PoS, the size of network participants’ holdings of the cryptocurrency in the
-network determines their authority and voting power to implement technical
-changes in the network. Participants are able to mine an equivalent portion of
-their stake regardless of processing power.
+Παρόλο που οι αλγόριθμοι Proof of Stake αντιμετωπίζουν το ζήτημα της ασφάλειας
+με 51% επιθέσεις, είναι αναμφισβήτητα ακόμη πιο ευάλωτοι στον συγκεντρωτισμό 
+από τα δίκτυα PoW. Στα PoS, το μέγεθος των συμμετεχόντων στο δίκτυο οι οποίοι
+κατέχουν την κρυπτοεγχειρητικότητα στο δίκτυο, καθορίζουν την εξουσία και 
+κατέχουν την δύναμη της ψήφου για την εφαρμογή των τεχνικών αλλαγών στο δίκτυο. 
+Οι συμμετέχοντες είναι σε θέση να εξορύξουν ένα ισοδύναμο τμήμα του
+μερίδιου τους ανεξάρτητα από την επεξεργαστική ισχύ.
 
-This principle significantly increases the economic barriers to launching a
-51% attack because the financial cost of acquiring the majority of tokens on
-the network in the open market is very likely to exceed the potential gain. If
-an attacker ends up as the majority stakeholder in the network, he will suffer
-most from the impact of the attack on the stability of the network or the
-external value of the cryptocurrency.
+Το φαινόμενο αυτό, αυξάνει σημαντικά τα οικονομικά εμπόδια για τη δρομολόγηση μίας 
+επίθεσης του 51% επειδή το οικονομικό κόστος απόκτησης της πλειοψηφίας των 
+μαρκών (tokens) στο δίκτυο, είναι πολύ πιθανό να υπερβεί το δυνητικό κέρδος. Αν
+ένας επιτιθέμενος καταλήγει ως πλειοψηφικός κάτοχος μαρκών στο δίκτυο, θα υποφέρει
+κυρίως από την επίπτωση της επίθεσης της σταθερότητας του δικτύου ή 
+εξωτερικής αξίας του κρυπτονομίσματος.
 
-Yet, although raising the barriers to human-led attacks on the network, PoS
-creates a centralizing impulse which is as strong as, if not stronger than, in
-the case of PoW. As Joseph Young summarizes in his comparison of the two
-systems at [coinfox.info](http://www.coinfox.info/), “A system where the major
-stakeholder enjoys extensive control and authority over both technical and
-economic aspects of the network creates a major monopoly problem.” While in PoW
-voting on the implementation of technical changes to the network “is divided
-among miners, developers and other crucial members of the community,” in a PoS
-system “major stakeholders have a technical ability to make any changes they
-like without considering the will of the community, businesses, miners and
-developers. This centralisation of voting power and, essentially, control of
-the network defeats the purpose of a distributed ledger-based cryptocurrency
-since it contradicts its entire principle of distributing all elements within
-the network to avoid the presence of a central authority.”
+Ωστόσο, αν και τα εμπόδια αυξάνονται όσον αφορά τις ανθρωπογενείς επιθέσεις στο δίκτυο, 
+το PoS δημιουργεί μια κεντρική ώθηση η οποία είναι τόσο ισχυρή, αν όχι ισχυρότερη, 
+από την η περίπτωση του PoW. Όπως ο Joseph Young συνοψίζει στη σύγκρισή του για τα δύο
+συστήματα στο [coinfox.info] (http://www.coinfox.info/), "Σε ένα σύστημα όπου ο μεγάλος
+επενδυτής διαθέτει εκτεταμένο έλεγχο και εξουσία, τόσο για τα τεχνικά όσο και 
+για τα οικονομικά θέματα του δικτύου, δημιουργήται έτσι ένα σημαντικό μονοπώλιακό πρόβλημα".
+Ενώ στο PoW, η ψηφοφορία για την εφαρμογή των τεχνικών αλλαγών στο δίκτυο "χωρίζεται
+μεταξύ των miners, των προγραμματιστών και διαφόρων άλλων σημαντικών μελών της κοινότητας", 
+σε ένα PoS σύστημα, "οι σημαντικότεροι εμπλεκόμενοι φορείς έχουν τεχνική ικανότητα 
+να προβούν σε οποιεσδήποτε αλλαγές, χωρίς να λαμβάνεται υπόψη η βούληση της κοινότητας, 
+των επιχειρήσεων, των miners και των προγραμματιστών. Αυτή η συγκέντρωση της εξουσίας 
+και ουσιαστικά ο έλεγχος του δίκτυου, καταστρέφει το σκοπό της αποκέντρωσης 
+των κρυπτονομισμάτων δεδομένου ότι αντιφάσκει με την όλη αρχή της διανομής όλων των στοιχείων εντός
+του δίκτυου για να αποφευχθεί η παρουσία μιας κεντρικής αρχής. "
 
-## Obelisk: Skycoin's distributed consensus algorithm
 
-To tackle this centralization problem, Skycoin moves beyond PoW/PoS.
-It uses a distributed consensus algorithm, called Obelisk, which
-distributes influence over the network according to a “web of trust”. In
-essence, every node has a list of other nodes that it subscribes to, and the
-density of a node’s network of subscribers determines its influence on the
-network. Each node is assigned a personal blockchain which acts as a “public
-broadcasting channel” on which all of a node’s actions are visible and
-publicly recorded. As all consensus decisions and communication occur through
-the personal blockchains of each node, the community can very easily audit
-nodes for cheating or collusion. How decisions on the network are made and
-which nodes influence those decisions is completely transparent.
+## Οβελίσκος: Ο συναινετικός αλγόριθμος διανομής του Skycoin
+
+Για να αντιμετωπίσει το πρόβλημα του συγκεντρωτισμού, 
+το Skycoin κινείται πέρα από το PoW / PoS.
+Χρησιμοποιεί έναν κατανεμημένο αλγόριθμο συναίνεσης, που ονομάζεται Obelisk, ο οποίος
+διανέμει επιρροή στο δίκτυο σύμφωνα με έναν "ιστό εμπιστοσύνης". Στην ουσία, 
+κάθε κόμβος έχει μια λίστα με άλλους κόμβους στους οποίους είναι συνδρομητής και 
+η πυκνότητα του δικτύου συνδρομητών ενός κόμβου, καθορίζει την επιρροή του στο δίκτυο. 
+Ο κάθε κόμβος έχει εκχωρηθεί ως ένα προσωπικό μπλοκ αλυσίδας που λειτουργεί ως ένα "κοινό"
+κανάλι εκπομπής στο οποίο είναι ορατές όλες οι ενέργειες του κόμβου και των
+δημόσιων εγγραφών. Καθώς όλες οι αποφάσεις για συναίνεση όπως και η επικοινωνία,
+πραγματοποιούνται μέσω των προσωπικών blockchains του κάθε κόμβου, 
+η κοινότητα εύκολα μπορεί να ελέγξει τους κόμβους για εξαπάτηση ή συμπαιγνία. 
+Το πως παίρνονται οι αποφάσεις στο δίκτυο και ποιοι κόμβοι επηρεάζονται από
+αυτές τις αποφάσεις, πραγματοποιείται με απολύτη διαφάνεια.
 
 Το δημόσιο αρχείο που παραμένει από το προσωπικό μπλοκ αλυσίδας (blockchain) 
 του κάθε κόμβου, επιτρέπει στο δίκτυο να αντιδρά στις επιθέσεις, αποσυνδέοντας 
