@@ -15,67 +15,72 @@ categories = [
 που ονομάζεται "Οβελίσκος" και αντικαθιστά τόσο την απόδειξη εργασίας ("PoW") 
 όσο και την απόδειξη της συμμετοχής ("PoS").
 
-Ο στόχος των προγραμματιστών του Skycoin ήταν να διορθώσουν τις σημαντικές αδυναμίες ασφαλείας
-και τις "συγκεντρωτικές τάσεις" που συνδέονται με τα δίκτυα blockchain στα οποία
-η συναίνεση βασίζεται σε αλγόριθμους PoW ή PoS και η δημιουργία κερμάτων συνδέεται με ένα
-εξόρυξης. Έτσι, το Skycoin προσπαθεί να δημιουργήσει την κρυπτοσυχνότητα την οποία
-ανταποκρίνεται καλύτερα στο αρχικό όραμα του Σάτοσι για ένα πλήρως αποκεντρωμένο ψηφιακό
-νομισματικό σύστημα.
+Ο στόχος των προγραμματιστών του Skycoin ήταν να διορθώσουν τις σημαντικές 
+αδυναμίες thw ασφαλείας και τις "συγκεντρωτικές τάσεις" που συνδέονται με τα δίκτυα 
+blockchain στα οποίαη συναίνεση βασίζεται σε αλγόριθμους PoW ή PoS και η 
+δημιουργία κερμάτων συνδέεται με έναεξόρυξης. Έτσι, το Skycoin προσπαθεί 
+να δημιουργήσει την κρυπτοσυχνότητα την οποία ανταποκρίνεται καλύτερα στο 
+αρχικό όραμα του Σάτοσι για ένα πλήρως αποκεντρωμένο ψηφιακό νομισματικό σύστημα.
 
 Με αυτόν τον τρόπο, η τεχνολογία του Skycoin δημιουργεί μία αλυσίδα (blockchain network) 
 χωρίς να απαιτούνται εξορυκτικές δραστηριότητες, 
 με σταθερές προμήθειες στα κρυπτονομίσματα, 
-χρόνοι συναλλαγής 10 δευτερολέπτων και μεγαλύτερη ασφάλεια. 
+χρόνοι συναλλαγής των 10 δευτερολέπτων και μεγαλύτερη ασφάλεια. 
 Σε ένα σύστημα στο οποίο η σύνδεση μεταξύ της δημιουργίας νομισμάτων 
 και του δικτυακού ελέγχου αποκόπτεται, τα κρυπτονομίσματα χάνουν την πολιτική τους 
 υπόσταση και αρχίζουν να λειτουργούν περισσότερο σαν μια μορφή ψηφιακής 
-ιδιοκτησίας στην πιο απλή του έννοια.
+ιδιοκτησίας στην πιο ευρύτερη της έννοια.
 
 ## Η απόδειξη εργασίας ("PoW") και το σύστημα του Bitcoin
 
-Κατά τον πρώιμο προγραμματισμό του Bitcoin, ένας βασικός λανθασμένος υπολογισμός 
-ήταν η διαδικασία εξόρυξης όπου θα παρήγαγε μια οικονομική δομή με κίνητρα που 
-θα μπορούσε να γίνει προαγωγή και προώθηση της αποκέντρωσης. 
-Στην πραγματικότητα όμως, η σχέση μεταξύ συναίνεσης και της ενέργειας του κατακερματισμού 
-(hashing power) ενθαρρύνει συνεχώς την αγορά της συνεχώς αυξανόμενης υπολογιστικής ισχύς 
-ώστε να βρίσκεται σε έλεγχο του δίκτυο.
+Κατά τον πρώιμο προγραμματισμό του Bitcoin, ένας βασικός υπολογισμός ο οποίος ήταν 
+λανθασμένος, ήταν η διαδικασία εξόρυξης (mining), όπου θα παρήγαγε μια οικονομική δομή 
+με κίνητρα για την προαγωγή και προώθηση της αποκέντρωσης. 
+Στην πραγματικότητα όμως, η σχέση μεταξύ της ομοφονίας-συναίνεσης και της ενέργειας 
+για την κρυπτογραφική συνάρτηση κατατεμαχισμού (hashing power) ενθαρρύνει συνεχώς 
+την αγορά της αυξανόμενης υπολογιστικής ισχύς ώστε να βρίσκεται σε έλεγχο το δίκτυο.
 
-The Bitcoin network, for instance, is de facto controlled by three for-profit
-mining pools which have been able to concentrate a large part of the network’s
-hashing power on its servers. These pools have begun to act as a cartel,
-splitting hashing power among each other by agreement. The link between mining
-and control of the network was already identified by Satoshi as the main
-non-cryptographic threat to the stability of the network. It allows actors who
-accumulate sufficient processing power and achieve a majority hash rate to
-falsify or revert transactions on the network in a 51% attack. Some argue that
-this vulnerability has become less pressing in an environment where hash power
-is highly centralized with actors who have invested large sums in the Bitcoin
-network and depend for their survival on the high value of the coin. Yet the
-power to influence the network is still highly concentrated, defeating the
-purpose of a distributed ledger-based cryptocurrency.
+Για παράδειγμα, το δίκτυο του Bitcoin ελέγχεται απόλυτα από τρεις δεξαμενές εξόρυξης 
+(pools) που κατόρθωσαν να συγκεντρώσουν ένα μεγάλο μέρος της ισχύος που απαιτείται 
+για τις κρυπτογραφικές συναρτήσεις κατατεμαχισμού (hashing power) 
+στους διακομιστές (σερβερ) της. Αυτές οι ομάδες άρχισαν να λειτουργούν ως καρτέλ,
+χωρίζοντας με συμφωνία, την δύναμη των συναρτήσεων, μεταξύ τους. Η σχέση μεταξύ της 
+εξόρυξης και του ελέγχου του δικτύου αναγνωρίστηκε ήδη από τον Σάτοσι ως την κύρια
+μη κρυπτογραφική απειλή για τη σταθερότητα του δικτύου. Επιτρέπει σε αυτούς, που
+συσσωρεύουν την επαρκή ισχύ επεξεργασίας και επιτυγχάνουν το μέγιστο ποσοστό της 
+υπολογιστικής πλειοψηφίας να πλαστογραφήσουν ή να επαναφέρει τις συναλλαγές 
+στο δίκτυο σε μια επίθεση της τάξεως του 51%. Κάποιοι υποστηρίζουν πως αυτή 
+η ευπάθεια έχει γίνει λιγότερο πιεστική σε ένα περιβάλλον όπου η δύναμη κατακερματισμού
+είναι εξαιρετικά συγκεντρωμένη με φορείς που έχουν επενδύσει μεγάλα ποσά στο Bitcoin
+και εξαρτώνται για την επιβίωσή τους από την υψηλή αξία του νομίσματος. Ωστόσο, η
+δύναμη ώστε να επηρεάστει το δίκτυο εξακολουθεί να είναι πολύ συγκεντρωμένη, 
+νικώντας έτσι τον σκοπό της κατανεμημένης ιδέας των κρυπτονομισμάτων.
 
-The Bitcoin network’s PoW algorithm thus introduces security and monopoly
-problems by placing power over the network with the actor capable of
-mobilizing enough economic resources to control the mining process.
+Ο αλγόριθμος PoW του δικτύου Bitcoin εισάγει μονοπωλιακά και προβλήματα ασφάλειας 
+τοποθετώντας την εξουσία του δίκτυου με αυτόν τον οποίο έχει την ικανότητα να
+κινητοποιήσει επαρκείς οικονομικούς πόρους ώστε να αποκτήσει τον έλεγχο 
+της εξόρυξης (mining).
 
-This also implies that the operation of the network is both economically and
-environmentally inefficient. The continuous input of processing power required
-by the mining process uses up large amounts of electricity, incurring monthly
-costs in the tens of millions. These costs can only be offset with an
-exponentially growing influx of new capital along with new users. Only a very
-small number of well-established coins, like Bitcoin and Ethereum, will be
-able to attract enough users to achieve such a continual flow. In the case of
-most other PoW/PoS-based coins, the cost
-of PoW/PoS mining is paid for in a lower market valuation as money is bled
-out of a coin by mining costs until the coin is abandoned.
+Αυτό σημαίνει επίσης ότι η λειτουργία του δικτύου είναι τόσο οικονομικά όσο και
+περιβαλλοντικά αναποτελεσματική. Η συνεχής εισαγωγή της απαιτούμενης επεξεργαστικής ισχύος
+για την διαδικασία εξόρυξης καταναλώνει μεγάλες ποσότητες ηλεκτρικής ενέργειας
+που ισοδυναμούν σε μηνιαία κόστη δεκάδων εκατομμύριων. 
+Αυτά τα έξοδα μπορούν να αντισταθμιστούν μόνο με μία εκθετικά αυξανόμενη εισροή 
+νέων κεφαλαίων παράλληλα με την εισαγωγή νέων χρήστων. Μόνο ένας πολύ μικρός
+αριθμός νομισμάτων, όπως το Bitcoin και το Ethereum είναι ικανός για την
+προσελκύση αρκετών νέων χρήστών ώστε να επιτύχια μια τέτοια συνεχής ροή. 
+Στην περίπτωση των περισσότερων άλλων νομίσματων PoW / PoS, το κόστος
+της εξόρυξης PoW / PoS πληρώνεται σε χαμηλότερη αποτίμηση της αγοράς 
+καθώς αφαιρείται το χρήμα από ένα κέρμα από το κόστος εξόρυξης
+έως ότου εγκαταλείψει το νόμισμα.
 
->Right now the Bitcoin economy consists of new users putting their money in
-and then the money being thrown in a pit and burned in a sacrifice ritual to
-the mining electricity costs. If the average user had to pay the miners’
-electricity cost directly as transaction fees, instead of it being robbed from
-them through inflation by the creation of new coins, then each Bitcoin
-transaction would cost more than $50. It would be more expensive than an
-international bank transfer.
+Αυτή τη στιγμή η οικονομία του Bitcoin αποτελείται από τους νέους χρήστες που 
+τοποθετούν κάπου τα χρήματά τους και στη συνέχεια τα χρήματα αυτά ρίχνονται σε ένα λάκκο 
+και καίγονται σε μια τελετουργία θυσία προς το κόστος εξόρυξης ηλεκτρικής ενέργειας. 
+Αν ο μέσος χρήστης έπρεπε να πληρώσει τους miners, το κόστος της ηλεκτρικής ενέργειας,
+άμεσα ως αμοιβή συναλλαγών, αντί να ληστεύεται μέσω του πληθωρισμού 
+με τη δημιουργία νέων κερμάτων, στη συνέχεια κάθε συναλλαγή Bitcoin θα κόστιζε 
+περισσότερο από $50. Θα ήταν ακριβότερη από ένα διεθνή τραπεζική μεταφορά.
 
 ## The centralizing tendency of Proof of Stake
 
@@ -123,7 +128,7 @@ nodes for cheating or collusion. How decisions on the network are made and
 which nodes influence those decisions is completely transparent.
 
 Το δημόσιο αρχείο που παραμένει από το προσωπικό μπλοκ αλυσίδας (blockchain) 
-του κάθε κόμβου, επιτρέπει στο δίκτυο να αντιδρά σε επιθέσεις αποσυνδέοντας 
+του κάθε κόμβου, επιτρέπει στο δίκτυο να αντιδρά στις επιθέσεις, αποσυνδέοντας 
 τις συνδέσεις που είναι λιγότερο αξιόπιστες ή έχουν θεωρηθεί κακόβουλες, 
 αναθέτοντας έτσι το δίκτυο σε έναν μικρότερο και πυκνότερο πυρήνα από
 αξιόπιστους κόμβους. Ως εκ τούτου, εάν η κοινότητα δεν διαθέτει εμπιστοσύνη 
@@ -136,7 +141,7 @@ which nodes influence those decisions is completely transparent.
 και εισάγουν έτσι ένα ιδιαίτερα δημοκρατικό και αποκεντρωτικό στοιχείο μέσα στο δίκτυο.
 
 Το σύστημα αυτό προβλέπει ένα σύστημα ψηφιακού νομίσματος με σημαντικά 
-μειωμένους χρόνους συναλλαγής και μεγαλύτερη ασφάλεια.
+μειωμένους χρόνους συναλλαγών και μεγαλύτερη ασφάλεια.
 
 *Διαβάστε ακόμη:*
 
